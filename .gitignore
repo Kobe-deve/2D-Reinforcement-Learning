@@ -1,0 +1,11 @@
+
+__pycache__/world.cpython-310.pyc
+__pycache__/visualize3d.cpython-310.pyc
+__pycache__/visualize.cpython-310.pyc
+__pycache__/q_table.cpython-310.pyc
+__pycache__/agent.cpython-310.pyc
+__pycache__/world.cpython-310.pyc
+__pycache__/visualize.cpython-310.pyc
+__pycache__/q_table.cpython-310.pyc
+__pycache__/agent.cpython-310.pyc
+*.pyc
